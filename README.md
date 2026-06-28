@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there 👋, I'm Rahul Goyal
 
-<!--
-**24599rahulgoyal/24599rahulgoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Java Backend Developer | Spring Boot Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about building scalable backend applications and solving Data Structures & Algorithms problems in Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning **Spring Boot, Docker, AWS & System Design**
+- 💻 Solving DSA daily
+- 🎯 Goal: Crack Apple SDE Interview
+- 📫 Reach me: (Add your email)
+
+---
+
+## 🛠 Tech Stack
+
+- ☕ Java
+- 🍃 Spring Boot
+- 🛢 MySQL
+- 🐳 Docker
+- ☁ AWS
+- 🌿 Git
+- 🐙 GitHub
+
+---
+
+## 📚 Currently Working On
+
+- Spring Boot Projects
+- DSA in Java
+- System Design
+- REST APIs
+
+---
+
+## 📌 Featured Projects
+
+Coming Soon 🚀
+
+---
+
+⭐ Thanks for visiting my profile!

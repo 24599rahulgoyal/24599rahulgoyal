@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Rahul Goyal Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Data+Structures+%26+Algorithms;Building+Scalable+Backend+Systems;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Rahul Goyal</h1>
 
 <h3 align="center">

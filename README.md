@@ -88,4 +88,9 @@ Git • GitHub • IntelliJ IDEA • VS Code • Postman
 
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/24599rahulgoyal/24599rahulgoyal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
